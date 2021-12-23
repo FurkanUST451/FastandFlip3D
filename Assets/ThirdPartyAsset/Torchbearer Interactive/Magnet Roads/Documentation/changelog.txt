@@ -1,0 +1,19 @@
+==============================================
+       Magnet Roads v3.0.0 - Changelist
+==============================================
+Copyright - Torchbearer Interactive Ltd - 2018
+----------------------------------------------
++ Added Dynamic intersections with changeable connection amount
++ Added Decal system for Magnet roads
++ Added Snap to collider feature to Magnet roads 
++ Can now Snap points of the same type to each other
++ Added SetRoadControlPointPosition method to Magnet road
++ Added two way intersections
++ Added sidewalks to intersections
+~ Updated to 2018.2.0f2
+~ Updated handle colours to make them more distinguishable
+~ Updated TBUnityLib to v1.6.0 - addition of plane generation for dynamic intersections
+~ Updated Gizmos handles - Removed unused functionality
+~ Fixed bug where clear mesh would sometimes throw a null reference
+~ Fixed bug where gizmos where not clickable
+
